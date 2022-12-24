@@ -1,0 +1,16 @@
+.bt-primary {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: .4rem;
+  background-color: #4681f4;
+  border: none;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.bt-primary:hover {
+  background-color: #3a6ed8;
+  border-color: #3a6ed8;
+}
